@@ -24,7 +24,7 @@ devido apenas pagarem apenas os recursos utilizados do servidor, ou seja, paga-s
 * Nuvem híbrida: É o sistema que usa o melhor os dois tipos de rede (Privada e pública). Nesse sistema existe um servidor na empresa e compartilha as
 informações com servidores na nuvem. Existem diversos tipos de configuração na nuvem híbrida para potencializar os recusros e otimizar seu consumo.
 
-   O próximo tópico, foi explanado a compração de dois sistema o CapEx e OpEx. O CapEx refere-se aos custos levantados para criar um sistema em nuvem
+  O próximo tópico, foi explanado a compração de dois sistema o CapEx e OpEx. O CapEx refere-se aos custos levantados para criar um sistema em nuvem
 particular com a compra de equipamentos e softwares para montagem da nuvem, neste caso é mais utilizado em nuvem privadas. O OpEx refere-se aos recursos
 levantados para a montagem da nuvem pública, necessitando adquirir assinatura para os envolvidos que utilizaram dos serviços em nuvem.
 
